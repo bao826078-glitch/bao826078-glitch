@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm bao826078-glitch
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=440&lines=Building+AI+Projects;Exploring+Open+Source;Creating+Developer+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=440&lines=Building+AI+Projects;Exploring+Open+Source;Creating+Developer+Tools;Code.+Build.+Repeat+To+Future" alt="Typing SVG" />
 </p>
 
 ## Connect with me
